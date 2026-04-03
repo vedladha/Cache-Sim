@@ -108,7 +108,3 @@ Cache-Sim/
 │   └── trace.c         # Synthetic trace generator
 └── .gitignore
 ```
-
-## License
-
-MIT
